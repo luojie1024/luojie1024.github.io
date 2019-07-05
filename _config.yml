@@ -1,7 +1,7 @@
 # Site settings
 title: BY Blog
 SEOTitle: 罗杰的博客 | BY Blog
-header-img: img/post-bg-desk.jpg
+header-img: img/post-bg-desk.PNG
 email: luojie@hnu.edu.cn
 description: "Every failure is leading towards success."
 keyword: "BY, BY Blog, 罗杰的博客, luojie, roger, DeepLearning, Python , NLP"
@@ -12,7 +12,7 @@ github_repo: "https://github.com/luojie1024/luojie1024.github.io" # you code rep
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
 sidebar-about-description: "Goals determine what you going to be!"
-sidebar-avatar: /img/about-BY-gentle.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-avatar: /img/about-BY-gentle.PNG      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
