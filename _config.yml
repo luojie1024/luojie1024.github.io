@@ -61,10 +61,10 @@ kramdown:
 
 # Gitalk
 gitalk:
-  enable: True    #是否开启Gitalk评论
+  enable: true    #是否开启Gitalk评论
   clientID: bf9aa479864ace5cf294                            #生成的clientID
   clientSecret: b4eb802a43ca3c8173e4e6060f82dbbf966a829d    #生成的clientSecret
-  repo: https://luojie1024.github.io/    #仓库名称
+  repo: luojie1024.github.io    #仓库名称
   owner: luojie1024    #github用户名
   admin: luojie1024
   distractionFreeMode: true #是否启用类似FB的阴影遮罩
