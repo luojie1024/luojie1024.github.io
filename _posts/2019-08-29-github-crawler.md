@@ -66,8 +66,7 @@ chrome 浏览器打开目标页面
 #### 3.2.1 导入`websitemap`
 
 `Create new sitemap ->Import Sitemap`
-
-![](../img/github_crawler_img/import.png)
+![]({{ site.url }}/img/github_crawler_img/import.png)
 
 > 这是我配置好的信息
 
@@ -77,7 +76,7 @@ chrome 浏览器打开目标页面
 
 #### 3.2.2 修改URL
 
-![](../img/github_crawler_img/edit_matadata.png)
+![]({{ site.url }}/img/github_crawler_img/edit_matadata.png)
 
 修改成我们的目标url:
 
@@ -86,21 +85,21 @@ https://github.com/search?l=ASP&o=desc&p=[1-100:1]&q=ASP&s=stars&type=Repositori
 `
 ***p=[1-100:1] 表示1~100页,遍历每一页***
 
-![](../img/github_crawler_img/star_url.png)
+![]({{ site.url }}/img/github_crawler_img/star_url.png)
 
 
 #### 3.2.3 开始爬取
 
-![](../img/github_crawler_img/scrape.png)
+![]({{ site.url }}/img/github_crawler_img/scrape.png)
 
 
 #### 3.2.4 实时展示
 
-![](../img/github_crawler_img/data.png)
+![]({{ site.url }}/img/github_crawler_img/data.png)
 
 
 ####  3.2.5 数据下载
-![](../img/github_crawler_img/download.png)
+![]({{ site.url }}/img/github_crawler_img/download.png)
 
 
 

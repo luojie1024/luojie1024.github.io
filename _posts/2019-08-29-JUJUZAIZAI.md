@@ -37,4 +37,4 @@ tags:
 ![]({{ site.url }}/img/JUJU/082907.jpg)
 
 
-![]({{ site.url }}/img/JUJU/0829021.jpg)
+![]({{ site.url }}/img/JUJU/082906.jpg)
