@@ -4,7 +4,7 @@ title:      居居崽崽的日常
 subtitle:   吃喝玩乐
 date:       2019-08-29
 author:     BY
-header-img: img/post-bg-coffee.jpg
+header-img: img/post-bg-coffee.jpeg
 catalog: true
 tags:
     - 居居崽崽
