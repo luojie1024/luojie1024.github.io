@@ -4,6 +4,7 @@ title:      SQuAD & R-NET 机器阅读理解
 subtitle:   R-NET
 date:       2020-03-28
 author:     BY
+header-img: img/post-bg-desk.jpg
 catalog: true
 mathjax: true
 tags:
