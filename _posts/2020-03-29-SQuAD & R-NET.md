@@ -1,10 +1,9 @@
 ---
 layout:     post
 title:      SQuAD & R-NET 机器阅读理解
-subtitle:   Bert
+subtitle:   R-NET
 date:       2020-03-28
 author:     BY
-header-img: img/post-bg-desk.jpg
 catalog: true
 mathjax: true
 tags:
@@ -45,9 +44,9 @@ tags:
 
 ## 介绍
 本篇文章解决的是阅读理解中的问答，采用的数据集是SQuAD和MS-MARCO。其中SQuAD是根据问题在段落中找到answer span，而MS-MARCO提供了从Bing Index收集的相关文档，问题的答案可能在段落中也可能不在段落中。
-<center>
+
 ![-w1084](http://roger-markdown.oss-cn-beijing.aliyuncs.com/2020/03/28/15852172731736.jpg)
-</center>
+
 
 模型主要包括4部分：
 1. 利用recurrent network来分别编码问题、段落的表示；
@@ -68,9 +67,9 @@ SQuAD上大多数的问题都可以通过很简单的pattern匹配回答出来�
 
 
 ## R-NET模型结构
-<center>
+
 ![-w1084](http://roger-markdown.oss-cn-beijing.aliyuncs.com/2020/03/28/15852172731736.jpg)
-</center>
+
 
 上图是R-NET模型的整体结构。首先，问题和段落分别经过双向RNN的处理。然后，用gated attention-based recurrent networks来匹配问题和段落，来获得question-aware段落表示。之后，采用self-matching attention来整合整个段落的信息、完善段落表示。最后，输入output layer来预测答案的边界。
 
