@@ -7,27 +7,27 @@
 岗位: 高级审计主任
 链接: https://app.mokahr.com/apply/watsons
 投递时间: 2020年7月2日
-![-w960](media/15911813096914/15936619390657.jpg)
+![-w960](http://roger-markdown.oss-cn-beijing.aliyuncs.com/2020/07/05/15936619390657.jpg)
 
 
 # 保利
 岗位: 项目核算岗
 链接: http://polycareer.zhiye.com/zpdetails/620293380
 投递时间: 2020年7月2日
-![-w991](media/15911813096914/15936614058271.jpg)
+![-w991](http://roger-markdown.oss-cn-beijing.aliyuncs.com/2020/07/05/15936614058271.jpg)
 
 
 # 哈罗单车【未成功】
 岗位: 成本监控-深圳
 链接: https://careers.hellobike.com/
 投递时间: 2020年7月1日
-![](media/15911813096914/15935866380856.jpg)
+![](http://roger-markdown.oss-cn-beijing.aliyuncs.com/2020/07/05/15935866380856.jpg)
 
 # 多益网络
 岗位: 会计
 链接: https://sz.duoyi.com/sz/index.html
 投递时间: 2020年7月1日
-![-w800](media/15911813096914/15935863091477.jpg)
+![-w800](http://roger-markdown.oss-cn-beijing.aliyuncs.com/2020/07/05/15935863091477.jpg)
 
 
 # 三七互娱
